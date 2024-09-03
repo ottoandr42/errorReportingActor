@@ -11,9 +11,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Error Manager.lvlib" Type="Library" URL="../Error Manager/Error Manager.lvlib"/>
-		<Item Name="Error Reporter.lvlib" Type="Library" URL="../Error Reporter/Error Reporter.lvlib"/>
-		<Item Name="~Error.lvlib" Type="Library" URL="../~Error/~Error.lvlib"/>
+		<Item Name="Error Reporting Actor.lvlib" Type="Library" URL="../Error Reporting Actor/Error Reporting Actor.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
