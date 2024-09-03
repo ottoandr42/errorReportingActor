@@ -32,3 +32,20 @@ Complete call chain:
      Actor Framework.lvlib:Actor.lvclass:Actor.vi:6640014
      Actor Framework.lvlib:Actor.lvclass:Actor.vi.ACBRProxyCaller.5FB00083
 --------------------------------------------------
+9/3/2024 10:57:57 AM
+Error 5000 occurred at Sample Error Reporter.lvlib:Sample Error Reporter.lvclass:Generate Error.vi
+
+Possible reason(s):
+
+This is a fake error!
+
+
+Complete call chain:
+     Sample Error Reporter.lvlib:Sample Error Reporter.lvclass:Generate Error.vi
+     Sample Error Reporter.lvlib:Generate Error Msg.lvclass:Do.vi:3750001
+     Actor Framework.lvlib:Actor.lvclass:Receive Message.vi:1040001
+     Actor Framework.lvlib:Actor.lvclass:Actor Core.vi:5880003
+     Sample Error Reporter.lvlib:Sample Error Reporter.lvclass:Actor Core.vi:5880001
+     Actor Framework.lvlib:Actor.lvclass:Actor.vi:6640014
+     Actor Framework.lvlib:Actor.lvclass:Actor.vi.ACBRProxyCaller.6150007F
+--------------------------------------------------
