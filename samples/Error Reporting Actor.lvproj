@@ -12,7 +12,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Error Reporting Actor.lvlib" Type="Library" URL="../../src/Error Reporting Actor/Error Reporting Actor.lvlib"/>
+		<Item Name="Error Reporting Actor.lvlib" Type="Library" URL="../../src/Error Reporting Actor.lvlib"/>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Sample Error Manager.lvlib" Type="Library" URL="../Sample Error Manager/Sample Error Manager.lvlib"/>
 		<Item Name="Sample Error Reporter.lvlib" Type="Library" URL="../Sample Error Reporter/Sample Error Reporter.lvlib"/>
